@@ -2,6 +2,7 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.util.Scanner;
 
+
 public class task000 {
     public static void main(String[] args) {
         try (Scanner scanner = new Scanner(System.in)) {
